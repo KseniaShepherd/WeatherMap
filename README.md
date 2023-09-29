@@ -2,6 +2,12 @@
 
 This is a React-based web application that allows users to search for locations, view them on a map, and check the current weather conditions for those locations. It integrates with weather and map APIs to provide real-time data.
 
+## Key technologies:
+- React;
+- JavaScript;
+- HTML/CSS;
+- Redux Toolkit;
+  
 ## Table of Contents
 1. [Demo](#demo)
 2. [Features](#features)
@@ -13,7 +19,7 @@ This is a React-based web application that allows users to search for locations,
 8. [License](#license)
 
 ## Demo
-You can check out a live demo of the application here: [Demo Link](demo-link)
+You can check out a live demo of the application here: [Demo Link](weather-map-inky.vercel.app)
 
 ## Features
 - Search for locations by name.
