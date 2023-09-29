@@ -4,7 +4,7 @@ This is a React-based web application that allows users to search for locations,
 
 ## Key technologies:
 - React;
-- JavaScript;
+- TypeScript;
 - HTML/CSS;
 - Redux Toolkit;
   
