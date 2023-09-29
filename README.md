@@ -19,7 +19,7 @@ This is a React-based web application that allows users to search for locations,
 8. [License](#license)
 
 ## Demo
-You can check out a live demo of the application here: [Demo Link](weather-map-inky.vercel.app)
+You can check out a live demo of the application here: [Demo Link](https://weather-map-inky.vercel.app/)
 
 ## Features
 - Search for locations by name.
